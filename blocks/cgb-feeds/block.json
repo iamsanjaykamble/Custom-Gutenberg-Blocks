@@ -1,0 +1,14 @@
+{
+    "name": "acf/cgb-feeds",
+    "title": "CGB Feeds",
+    "description": "A custom feeds block.",
+    "style": [ "file:./cgb-feeds.css" ],
+    "category": "formatting",
+    "icon": "admin-comments",
+    "keywords": ["feeds", "posts"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "cgb-feeds.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "acf/cgb-header",
+    "title": "CGB Header",
+    "description": "A custom header block.",
+    "style": [ "file:./cgb-header.css" ],
+    "category": "formatting",
+    "icon": "admin-comments",
+    "keywords": ["header", "banner"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "cgb-header.php"
+    },
+    "align": "full"
+}
